@@ -1,0 +1,28 @@
+﻿2022-06-17T13:53:48.4378506+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-06-17T13:53:48.4380077+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework netcore31 in x64 mode execution started
+2022-06-17T13:53:48.4380111+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\rafique.javed\source\repos\Lens_Demo\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-06-17T13:53:48.9561674+05:30;VSTestExecutionThread;Info;Current UserName: 'rafique.javed', MachineName: 'LP-5CD151G7S6'
+2022-06-17T13:53:48.9927396+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\rafique.javed\source\repos\Lens_Demo\bin\Debug\netcoreapp3.1\Lens_Demo.dll
+2022-06-17T13:53:48.9933140+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\rafique.javed\source\repos\Lens_Demo\TestResults" (default)
+2022-06-17T13:53:48.9936120+05:30;VSTestExecutionThread;Info;Profile: 
+2022-06-17T13:53:49.0603637+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\rafique.javed\source\repos\Lens_Demo\TestResults\Unnamed project__2022-06-17T135348.log
+2022-06-17T13:53:49.0659993+05:30;Thread#12;Info;Checking activation
+2022-06-17T13:54:11.3914568+05:30;Thread#7;Error;A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2022-06-17T13:54:11.3933084+05:30;Thread#12;Error;****************************************************************************************************************
+2022-06-17T13:54:11.3935901+05:30;Thread#12;Error;*                                           SpecFlow+ Runner                                                   *
+2022-06-17T13:54:11.3937933+05:30;Thread#12;Error;****************************************************************************************************************
+2022-06-17T13:54:11.3942185+05:30;Thread#12;Error;Please sign-up for your free SpecFlow account or sign-in with your already existing account here:
+2022-06-17T13:54:11.3944513+05:30;Thread#12;Error;https://account.specflow.org/clientactivation/welcome/Runner/55BC2A4FB92048B1A5B04713CA8B6D504A0B9719E843F439ED4070174078FFD87704E579/NotActivatedYet
+2022-06-17T13:54:11.3947053+05:30;Thread#12;Error;to execute your Scenarios again.
+2022-06-17T13:54:11.3950141+05:30;Thread#12;Error;If you are reading this message on a build agent, we couldn't recognize the agent.
+2022-06-17T13:54:11.3952160+05:30;Thread#12;Error;Please get in touch with us at support@specflow.org.
+2022-06-17T13:54:11.3954569+05:30;Thread#12;Error;****************************************************************************************************************
+2022-06-17T13:54:11.3983792+05:30;Thread#12;Error;No tests executed (activation needed)
+2022-06-17T13:54:11.4074695+05:30:Total: 0
+2022-06-17T13:54:11.4085710+05:30:Succeeded: 0
+2022-06-17T13:54:11.4087159+05:30:Ignored: 0
+2022-06-17T13:54:11.4088180+05:30:Pending: 0
+2022-06-17T13:54:11.4093328+05:30:Skipped: 0
+2022-06-17T13:54:11.4094925+05:30:Failed: 0
+2022-06-17T13:54:11.4139406+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

@@ -1,0 +1,23 @@
+{
+  "Browser": "chrome", // Enter "chrome","IE","firefox" for different browsers
+  "Stage": {
+    "HCL_QA": {
+      "RunTest": "Yes", // Type "Yes" if you are running Test in Dev environment
+      "URL": "https://lens-qa.radiangen.com/#/login",
+      "UserName": "testuser@hcl.com",
+      "Password": "Welcome@123"
+    },
+    "QA": {
+      "RunTest": "No", // Type "Yes" if you are running Test in Local environment
+      "URL": "https://lens-qa.radiangen.com/",
+      "UserName": "",
+      "Password": ""
+    },
+    "Staging": {
+      "RunTest": "No", // Type "Yes" if you are running Test in Production environment
+      "URL": "https://lens-staging.radiangen.com/",
+      "UserName": "",
+      "Password": ""
+    }
+  }
+}
