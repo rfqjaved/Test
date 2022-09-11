@@ -5,7 +5,7 @@ pipeline {
     stage('Building') {
       steps{
         script {
-	   'file1_3.py'
+	   ' ssh file1_3.py'
 	}
       }
     }
