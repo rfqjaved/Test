@@ -3,11 +3,11 @@ pipeline {
   stages {
   
     stage('Building') {
-      sh label:
-	      'Building the project',
-        script: '''
-	   msbuild.exe Lens_Demo.sln
-	   '''
+      steps{
+	   sh 'msbuild.exe Lens_Demo.sln'
+
+         }
+      
     }
     stage('Testing') {
       steps{
