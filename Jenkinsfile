@@ -2,13 +2,20 @@ pipeline {
   agent {label 'Node1'}  
   stages {
   
-    stage('Testing') {
+    stage('Building') {
       steps{
         script {
 	   'Lens-Demo.sln'
         }
       }
     }
+    stage('Testing') {
+      steps{
+        script {
+	   '*\bin\Lens-Demo.sln'
+	}
+      }
+    }	        
   }  
 }
 
