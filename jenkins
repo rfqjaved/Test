@@ -1,0 +1,13 @@
+pipeline {  
+  agent {label 'windowsslave1'}  
+  stages {
+  
+    stage('Testing') {
+      steps{
+        script {
+	   'Lens_demo.sln'
+        }
+      }
+    }
+  }  
+}
