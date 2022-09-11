@@ -12,7 +12,7 @@ pipeline {
     stage('Testing') {
       steps{
         script {
-	   '*\bin\Lens-Demo.sln'
+	   'lens_demo.dll'
 	}
       }
     }	        
