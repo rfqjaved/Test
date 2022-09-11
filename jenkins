@@ -1,5 +1,5 @@
 pipeline {  
-  agent {label 'windowsslave1'}  
+  agent {label 'Node1'}  
   stages {
   
     stage('Testing') {
