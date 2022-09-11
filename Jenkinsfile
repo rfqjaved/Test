@@ -4,10 +4,10 @@ pipeline {
   
     stage('Building') {
       steps{
-	   sh 'msbuild.exe Lens_Demo.sln'
-
-         }
-      
+        script {
+	   'file1_2.py'
+	}
+      }
     }
     stage('Testing') {
       steps{
