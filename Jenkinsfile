@@ -5,7 +5,7 @@ pipeline {
     stage('Building') {
       steps{
         script {
-	   'xbuild Lens_Demo.sln'
+	   'msbuild.exe Lens_Demo.sln'
 	}
       }
     }
