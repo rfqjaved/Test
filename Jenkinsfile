@@ -5,7 +5,7 @@ pipeline {
     stage('Building') {
       steps{
         script {
-	   ' ssh file1_3.py'
+	   'xbuild Lens_Demo.sln'
 	}
       }
     }
